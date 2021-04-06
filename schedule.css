@@ -1,0 +1,96 @@
+html{
+    height: 100%;
+}
+body{
+     background-color:   rgb(252, 250, 251) ;
+     margin: -10;
+     
+}
+.navbar{
+    padding-top: 0px;
+    margin-top: -24.8px;
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+}
+.navbar-brand{
+    padding-left: 20px;
+    padding-top: -10px;
+}
+.nav-item{
+    padding: 8px;
+}
+.nav-item:hover{
+    background-color: #f3f1f3;
+    
+}
+.nav-link:hover{
+    color:white;
+    
+}
+.navbar-form {
+    padding-left: 30px;
+}
+.button{
+    padding-right: 10px;
+}
+
+.account{
+    padding-left: 300px;
+    padding-top: 5px;
+}
+.nav-item-3{
+   padding-top: 5px;
+}
+.nav-item-1{
+    padding-top: 5px;
+}
+.nav-item-2{
+    padding-top: 5px;
+}
+.days{
+    padding: 55px 330px 0;
+    
+   
+}
+.days1{
+    background-color: #f3547c;
+    color: #ffffff;
+    padding: 8px 10px;
+    margin: 8px 0;
+    border-radius: 10px;
+    box-shadow:  0 4px 12px 0 rgb(0 0 0 / 5%);
+    cursor: pointer;
+    width: 10%;
+    -webkit-box-align: center;
+    text-align: center;
+
+}
+.time{
+    background-color: #f3547c;
+    color: #ffffff;
+    padding: 8px 10px;
+    margin: 8px 0;
+    border-radius: 10px;
+    box-shadow:  0 4px 12px 0 rgb(0 0 0 / 5%);
+    cursor: pointer;
+    width: 20%;
+    -webkit-box-align: center;
+    text-align: center;
+}
+.proceed{
+    background-color: #190258;
+    color: #ffffff;
+    padding: 8px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 18%;
+    -webkit-box-align: center;
+}
+.checkout{
+    padding-top: 50px;
+    text-align: center;
+}

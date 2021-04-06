@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+}
+body{
+     background-color:   white ;
+     
+}
+.navbar{
+    padding-top: 0px;
+    margin-top: -24.8px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+}
+.navbar-brand{
+    padding-left: 20px;
+    padding-top: -10px;
+}
+.nav-item{
+    padding: 8px;
+}
+.nav-item:hover{
+    background-color: #f3f1f3;
+    
+}
+.nav-link:hover{
+    color:white;
+    
+}
+.navbar-form {
+    padding-left: 30px;
+}
+.button{
+    padding-right: 10px;
+}
+
+.account{
+    padding-left: 300px;
+    padding-top: 5px;
+}
+.nav-item-3{
+   padding-top: 5px;
+}
+.nav-item-1{
+    padding-top: 5px;
+}
+.nav-item-2{
+    padding-top: 5px;
+}
