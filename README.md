@@ -5,3 +5,4 @@ We have used the following tech stacs into project:
 1)Bootstrap
 2)HTML
 3)CSS
+One can view the functionality of website by running main.html file 
